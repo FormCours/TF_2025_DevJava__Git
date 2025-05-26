@@ -1,3 +1,3 @@
 # Hello World
 
-## Bientot la pause de midi 🍕
+## On va manger, c'est pause de midi 🍜
